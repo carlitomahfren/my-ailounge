@@ -6,13 +6,30 @@ This folder contains onboarding guides, architecture references, research materi
 
 ---
 
+## Current Priority
+
+Current active workstreams:
+
+* Developer Dashboard Planning
+* Developer Intelligence Feed Research
+* Context Engineering
+* Repository Documentation Improvements
+
+Contributors should review these documents first:
+
+* [developer-dashboard.md](./developer-dashboard.md)
+* [CONTEXT-ENGINEERING.md](./CONTEXT-ENGINEERING.md)
+* [INSTRUCTIONS.md](./INSTRUCTIONS.md)
+
+---
+
 ## Start Here
 
 These documents are recommended for new contributors.
 
-* INSTRUCTIONS.md — Main onboarding and development guide.
-* AI-installation-tutorial.md — Setup instructions for AI tooling and CLI utilities.
-* WARP.md — Repository workflow and operational guidance.
+* [INSTRUCTIONS.md](./INSTRUCTIONS.md) — Main onboarding and development guide.
+* [AI-installation-tutorial.md](./AI-installation-tutorial.md) — Setup instructions for AI tooling and CLI utilities.
+* [WARP.md](./WARP.md) — Repository workflow and operational guidance.
 
 ---
 
@@ -20,8 +37,9 @@ These documents are recommended for new contributors.
 
 Documentation related to the Developer Dashboard initiative.
 
-* developer-dashboard.md — Dashboard overview, requirements, and module specifications.
-* plans/ — Planning documents, action plans, and implementation roadmaps.
+* [developer-dashboard.md](./developer-dashboard.md) — Dashboard overview, requirements, and module specifications.
+* [CONTEXT-ENGINEERING.md](./CONTEXT-ENGINEERING.md) — Guidelines for structuring project context for contributors and AI-assisted workflows.
+* [plans/](./plans/) — Planning documents, action plans, and implementation roadmaps.
 
 ---
 
@@ -29,9 +47,8 @@ Documentation related to the Developer Dashboard initiative.
 
 Resources related to AI workflows, prompting, and model usage.
 
-* oh-my-opencode-models.md
-* reference-prompts.md
-* CONTEXT-ENGINEERING.md
+* [oh-my-opencode-models.md](./oh-my-opencode-models.md) — Overview and comparison of AI models used with OpenCode.
+* [reference-prompts.md](./reference-prompts.md) — Reusable prompts and prompt engineering references.
 
 ---
 
@@ -39,10 +56,10 @@ Resources related to AI workflows, prompting, and model usage.
 
 Research documents, evaluations, and reference material.
 
-* research.md
-* pricing.md
-* deepseek-gemini-claude-comparison.md
-* vibe-coding-vs-legacy.md
+* [research.md](./research.md)
+* [pricing.md](./pricing.md)
+* [deepseek-gemini-claude-comparison.md](./deepseek-gemini-claude-comparison.md)
+* [vibe-coding-vs-legacy.md](./vibe-coding-vs-legacy.md)
 
 ---
 
@@ -50,8 +67,8 @@ Research documents, evaluations, and reference material.
 
 Repository structure, engineering notes, and technical planning.
 
-* File architecture update.md
-* RnD_Technical_Tasks_Overview.md
+* [File architecture update.md](./File%20architecture%20update.md)
+* [RnD_Technical_Tasks_Overview.md](./RnD_Technical_Tasks_Overview.md)
 
 ---
 
